@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 working on full stack projects.<br>🌱 I’m currently learning DSA.<br>
 
-portfolio:<a src="https://portfolio-livid-eta-57.vercel.app/">My Portfolio</a>
+portfolio:<a name="https://portfolio-livid-eta-57.vercel.app/">My Portfolio</a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuragwadikar123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragwadikar)
 [![](https://visitcount.itsvg.in/api?id=ANU181-W&icon=2&color=6)](https://visitcount.itsvg.in)
